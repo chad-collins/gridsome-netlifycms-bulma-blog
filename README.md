@@ -1,14 +1,3 @@
 # Gridsome Minimal Blog Starter
 
-A starter template for creating a minimal blog with Markdown
-
-### Usage
-1. `gridsome create my-gridsome-site alexbrown/gridsome-starter-minimal-blog` to create a gridsome project with the starter template
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
-
-### Build
-```
-npm run build
-```
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8d21dcd4-0de7-4d58-9cca-016dfef233fa/deploy-status)](https://app.netlify.com/sites/goofy-jennings-c499aa/deploys)
